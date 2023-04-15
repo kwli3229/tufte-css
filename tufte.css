@@ -472,7 +472,7 @@ label.margin-toggle:not(.sidenote-number) {
     }
     
     div > p, div > footer, div > table, div > h1, div > h2 { 
-       width: 55%; 
+       width: 100%; 
     }
    
     label {
