@@ -470,7 +470,11 @@ label.margin-toggle:not(.sidenote-number) {
         vertical-align: baseline;
         position: relative;
     }
-
+    
+    div > p, div > footer, div > table, div > h1, div > h2 { 
+       width: 55%; 
+    }
+   
     label {
         cursor: pointer;
     }
